@@ -40,7 +40,7 @@ Microsoft har dock introducerat något de kallar för Windows Subsystem for Linu
 
 1. Tryck <kbd>WIN</kbd> + <kbd>Q</kbd>.
 
-1. Skriv `Ubuntu`.
+1. Skriv `ubuntu`.
 
 1. Tryck <kbd>ENTER</kbd>.
 
@@ -60,7 +60,7 @@ Microsoft har dock introducerat något de kallar för Windows Subsystem for Linu
 
 1. Tryck <kbd>WIN</kbd> + <kbd>Q</kbd>.
 
-1. Skriv `Ubuntu`.
+1. Skriv `ubuntu`.
 
 1. Installera `Node.js` paketlista i `Ubuntu`:
 
